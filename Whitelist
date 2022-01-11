@@ -1,8 +1,6 @@
---\TEST
+local IDS = {
 
+[urUserID] = true,
 
-local WhitelistedIDS = {
-[kingyid] = true,
-[kingyid2] = true,
 }
-return WhitelistedIDS
+return IDS
