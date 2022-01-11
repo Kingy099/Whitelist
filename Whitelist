@@ -1,6 +1,6 @@
 local IDS = {
 
-[urUserID] = true,
+[2825375341] = true,
 
 }
 return IDS
